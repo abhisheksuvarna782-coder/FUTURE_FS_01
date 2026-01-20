@@ -13,7 +13,7 @@ function Contact() {
           <div className="contact-info">
             <div className="contact-item">
               <h3>Email</h3>
-              <p><a href="mailto:your.email@example.com">abhisheksuvarna782@gmail.com</a></p>
+              <p><a href="mailto:abhisheksuvarna782@gmail.com">abhisheksuvarna782@gmail.com</a></p>
             </div>
             <div className="contact-item">
               <h3>Phone</h3>
@@ -21,11 +21,11 @@ function Contact() {
             </div>
             <div className="contact-item">
               <h3>LinkedIn</h3>
-              <p><a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/abhishek-1bb2b6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
+              <p><a href="https://www.linkedin.com/in/abhishek-1bb2b6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/abhishek-1bb2b6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
             </div>
             <div className="contact-item">
               <h3>GitHub</h3>
-              <p><a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">https://github.com/abhisheksuvarna782-coder</a></p>
+              <p><a href="https://github.com/abhisheksuvarna782-coder" target="_blank" rel="noopener noreferrer">https://github.com/abhisheksuvarna782-coder</a></p>
             </div>
           </div>
         </div>

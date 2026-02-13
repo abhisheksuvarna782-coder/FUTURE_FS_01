@@ -15,7 +15,7 @@ It serves as a strong online presence for internships, job opportunities, and pe
 
 ## 🚀 Live Demo
 🔗 **Portfolio Website:**  
-https://verdant-gingersnap-b89a57.netlify.app/
+https://monumental-bubblegum-bf1277.netlify.app/
 
 ---
 

@@ -1,6 +1,6 @@
 ## FUTURE_FS_01 – Personal Professional Portfolio Website
 
-## 📌 Internship
+## 📌 Internship.
 **Full Stack Web Development Internship – Future Interns**
 
 ---

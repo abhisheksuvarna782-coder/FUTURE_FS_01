@@ -70,7 +70,7 @@ Through this task, I learned:
 ## 🏁 Task Status
 ✅ Task 1 Completed  
 ✅ Live Deployed  
-✅ Internship Guidelines Followed  .
+✅ Internship Guidelines Followed  
 
 ---
 

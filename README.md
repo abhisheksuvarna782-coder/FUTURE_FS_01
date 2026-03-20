@@ -15,7 +15,7 @@ It serves as a strong online presence for internships, job opportunities, and pe
 
 ## 🚀 Live Demo
 🔗 **Portfolio Website:**  
-https://genuine-fairy-66647a.netlify.app/
+https://genuine-fairy-66647a.netlify.app/.
 
 ---
 

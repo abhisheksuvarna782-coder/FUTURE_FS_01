@@ -19,7 +19,7 @@ https://genuine-fairy-66647a.netlify.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack...
 - **React.js** – Frontend framework  
 - **JavaScript (ES6+)** – Logic & interactivity  
 - **CSS3** – Styling & responsiveness  

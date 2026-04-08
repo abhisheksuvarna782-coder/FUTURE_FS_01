@@ -9,7 +9,7 @@
 This project is a **Personal Professional Portfolio Website** developed as **Task 1** of the *Future Interns Full Stack Web Development Internship*.
 
 The portfolio is built using **React** and showcases my profile, skills, and work in a modern, responsive, and professional layout.  
-It serves as a strong online presence for internships, job opportunities, and personal branding
+It serves as a strong online presence for internships, job opportunities, and personal branding.
 
 ---
 

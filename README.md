@@ -2,7 +2,7 @@
 
 ## 📌 Internship
 **Full Stack Web Development Internship – Future Interns**
-
+.
 ---
 
 ## 📖 Project Overview
